@@ -56,11 +56,12 @@ form input {
     padding-left: 10px;
     border: 1px solid #7C6144;
     border-radius: 5px;
+    font-size: 16px;
 }
 
 form input::placeholder {
     color: black;
-    font-size: 12px;
+    font-size: 16px;
 }
 
 button {
