@@ -62,7 +62,7 @@ window.addEventListener('load', () => {
                 imageAlt: "Logo",
                 showConfirmButton: false,
                 showCloseButton: true,
-                timer: 2500,
+                timer: 6000,
                 timerProgressBar: true,
                 customClass: {
                     title: "title",
